@@ -18,7 +18,7 @@
 ## 📈 GitHub Stats
 
 ![Javela09's GitHub stats](https://github-readme-stats.vercel.app/api?username=javela09&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javela09&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-bay.vercel.app/api/top-langs/?username=javela09&layout=compact&theme=tokyonight)
 
 ---
 
