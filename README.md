@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy José Antonio Vela
 
-<!--
-**javela09/javela09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Desarrollador Multimedia** | 🎧 Apasionado por la tecnología, el diseño y la creación de experiencias digitales.
 
-Here are some ideas to get you started:
+💡 Siempre en búsqueda de nuevos retos y aprendiendo constantemente  
+🚀 Explorando las fronteras entre el código, la creatividad y lo visual
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
+
+![Javela09's GitHub stats](https://github-readme-stats.vercel.app/api?username=javela09&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javela09&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Encuéntrame en
+
+- 📧 [Email](mailto:joseantoniovelaalonso@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-antonio-vela-alonso-36b49a172/)
+- 🎨 [ArtStation](https://www.artstation.com/joseantoniovelaalonso)
+- 🧑‍💻 [GitHub](https://github.com/javela09)
