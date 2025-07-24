@@ -44,12 +44,4 @@ Always exploring new tools, challenges, and ways to step out of my comfort zone
   <a href="https://www.linkedin.com/in/jose-antonio-vela-alonso-36b49a172/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://www.artstation.com/joseantoniovelaalonso" target="_blank">
-    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/javela09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
