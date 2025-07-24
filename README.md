@@ -1,14 +1,12 @@
-<h1 align="center">👋 ¡Hola! Soy José Antonio Vela</h1>
+<h1 align="center">👋 ¡Hi! I'm José Antonio Vela</h1>
 
+<h3 align="center">
+Multimedia Developer
+</h3>
 <p align="center">
-Desarrollador Multimedia  
+Passionate about technology and multimedia creation
 <br />
-Apasionado por la tecnología, el diseño y la creación de experiencias digitales.  
-<br />
-Siempre en búsqueda de nuevos retos y aprendiendo constantemente.  
-<br />
-Explorando las fronteras entre el código, la creatividad y lo visual.
-</p>
+Always exploring new tools, challenges, and ways to step out of my comfort zone
 
 ---
 
@@ -36,7 +34,7 @@ Explorando las fronteras entre el código, la creatividad y lo visual.
 
 ---
 
-## <p align="center">🌐 Encuéntrame en</p>
+## <p align="center">🌐 Contact me</p>
 
 <p align="center">
   <a href="mailto:joseantoniovelaalonso@gmail.com" target="_blank">
