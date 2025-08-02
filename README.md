@@ -29,7 +29,7 @@ Always exploring new tools, challenges, and ways to step out of my comfort zone
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-bay.vercel.app/api/top-langs/?username=javela09&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats-bay.vercel.app/api/top-langs/?username=javela09&theme=tokyonight" width="45%" />
 </p>
 
 ---
