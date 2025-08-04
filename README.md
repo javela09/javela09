@@ -20,14 +20,6 @@ Always exploring new tools, challenges, and ways to step out of my comfort zone
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
 </p>
 
----
-
-## <p align="center">📈 GitHub Stats</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javela09&show_icons=true&theme=tokyonight" width="45%" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats-bay.vercel.app/api/top-langs/?username=javela09&theme=tokyonight" width="45%" />
 </p>
